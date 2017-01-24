@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScanLoto</string>
+    <string name="document_picture_error">Erro de imagem</string>
+    <string name="document_error_not_sharp">Erro de imagem</string>
+    <string name="document_error_unknown">Erro nao identificado</string>
+    <string name="document_image_saved_to">Documento salvo em:</string>
+</resources>

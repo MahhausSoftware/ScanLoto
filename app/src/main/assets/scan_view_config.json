@@ -1,0 +1,34 @@
+{
+  "captureResolution":"720",
+  "cutout": {
+    "style": "rect",
+    "maxWidthPercent": "100%",
+    "maxHeightPercent": "100%",
+    "alignment": "center",
+    "width": 700,
+    "ratioFromSize": {
+      "width": 4,
+      "height": 3
+    },
+    "strokeWidth": 2,
+    "cornerRadius": 0,
+    "strokeColor": "FFFFFF",
+    "outerColor": "000000",
+    "outerAlpha": 0.6
+  },
+  "flash": {
+    "mode": "manual",
+    "alignment": "bottom_right"
+  },
+  "beepOnResult": false,
+  "vibrateOnResult": true,
+  "blinkAnimationOnResult": true,
+  "cancelOnResult": true,
+  "visualFeedback": {
+    "style": "rect",
+    "strokeWidth": 4,
+    "strokeColor": "0099FF",
+    "fillColor": "330099FF",
+    "cornerRadius": 2
+  }
+}
